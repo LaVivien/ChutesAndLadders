@@ -2,8 +2,7 @@
 
 ## Assighment
 
-In Java, code a simulation of the classic children’s game “Chutes And Ladders.” There is no “right” answer to
-this assignment, we will be evaluating the design choices and coding style.
+In Java, code a simulation of the classic children’s game “Chutes And Ladders.” 
 
 ## Instructions
 
