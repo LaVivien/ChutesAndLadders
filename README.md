@@ -2,7 +2,7 @@
 
 ## Assighment
 
-In Java, code a simulation of the classic children’s game “Chutes And Ladders.” 
+In Java, code a simulation of the classic children’s game [Chutes And Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders).
 
 ## Instructions
 
