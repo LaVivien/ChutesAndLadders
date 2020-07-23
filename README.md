@@ -1,4 +1,4 @@
-# Graph Cut-Based Parition
+# Chutes And Ladders
 
 ## Assighment
 
